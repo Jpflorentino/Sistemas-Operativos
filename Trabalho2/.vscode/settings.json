@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "include.h": "c",
+        "errorutils.h": "c",
+        "myinet.h": "c"
+    }
+}
